@@ -17,4 +17,4 @@ Another cool shot:
 Also, when I tried to export that GIF, something got corrupted or something, but in sort of a cool way? I think this would make a neat print:
 ![Image]({{"images/tree_print_corrupted.png",  | relative_url }})
 
-Ciao for now!
+Okay ciaooooo!
