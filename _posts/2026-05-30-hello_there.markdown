@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "hello there"
-date:   2026-05-30 2/14/2026
+date:   2026-05-30 5/30/2026
 ---
 You know how when you write, you're supposed to think about your intended audience? Well, I don't have one in mind. I have absolutely no idea who you are, except someone who, by some means or another, has had the distinct misfortune of encountering my blog. In fact, I have only vague notions about what I want to write <i>about</i>, and they're sure as hell not cohesive. As you might imagine, that makes it rather difficult to know where to start. I suppose telling you what inspired me to create this directionless project is as good a place as any. 
 <br>
