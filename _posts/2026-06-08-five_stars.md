@@ -7,15 +7,15 @@ Lately I find myself thinking about John Green's review of sunsets in his book <
 
 - "'this looks photoshopped'"
 
-- The e.e. cummings poem he includes:
+- The e.e. cummings poem he includes: <br>
 <i>
 &emsp; who are you,little i  
 <br>
-&emsp; (five or six years old)<br>   
+&emsp; (five or six years old)<br> 
 &emsp; peering from some high  
 <br>
 &emsp; window;at the gold  
-<br>
+<br> <br>
 &emsp; of november sunset  
 <br>
 &emsp; (and feeling:that if day<br>
