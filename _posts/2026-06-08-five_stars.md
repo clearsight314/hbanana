@@ -11,23 +11,16 @@ Lately I find myself thinking about John Green's review of sunsets in his book <
 
 &emsp;*who are you,little i  
 <br>
-
-&emsp;(five or six years old)    
-
+&emsp;(five or six years old)<br>   
 &emsp;peering from some high  
 <br>
-
 &emsp;window;at the gold  
 <br>
-
 &emsp;of november sunset  
 <br>
-
-&emsp;(and feeling:that if day  
-
+&emsp;(and feeling:that if day<br>
 &emsp;has to become night  
 <br>
-
 &emsp;this is a beautiful way) *
 
 - "\[S\]ometimes when the world is betweend day and night, I'm stopped cold by its splendor, and I feel my absurd smallness."
