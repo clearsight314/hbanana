@@ -21,7 +21,7 @@ Lately I find myself thinking about John Green's review of sunsets in his book <
 &emsp; (and feeling:that if day<br>
 &emsp; has to become night  
 <br>
-&emsp; this is a beautiful way) <i>
+&emsp; this is a beautiful way) </i>
 
 - "Sometimes when the world is between day and night, I'm stopped cold by its splendor, and I feel my absurd smallness."
 
