@@ -8,19 +8,20 @@ Lately I find myself thinking about John Green's review of sunsets in his book <
 - "'this looks photoshopped'"
 
 - The e.e. cummings poem he includes:
-<i> who are you,little i
 
-(five or six years old)
-peering from some high
+&emsp;<i> who are you,little i
 
-window;at the gold
+&emsp;(five or six years old)
+&emsp;peering from some high
 
-of november sunset
+&emsp;window;at the gold
 
-(and feeling:that if day
-has to become night
+&emsp;of november sunset
 
-this is a beautiful way) </i>
+&emsp;(and feeling:that if day
+&emsp;has to become night
+
+&emsp;this is a beautiful way) </i>
 
 - "\[S\]ometimes when the world is betweend day and night, I'm stopped cold by its splendor, and I feel my absurd smallness."
 
