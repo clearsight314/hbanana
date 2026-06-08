@@ -9,23 +9,23 @@ Lately I find myself thinking about John Green's review of sunsets in his book <
 
 - The e.e. cummings poem he includes:
 
-&emsp;*who are you,little i
+&emsp;*who are you,little i  
 <br>
 
-&emsp;(five or six years old)
+&emsp;(five or six years old)    
 
-&emsp;peering from some high
+&emsp;peering from some high  
 <br>
 
-&emsp;window;at the gold
+&emsp;window;at the gold  
 <br>
 
-&emsp;of november sunset
+&emsp;of november sunset  
 <br>
 
-&emsp;(and feeling:that if day
+&emsp;(and feeling:that if day  
 
-&emsp;has to become night
+&emsp;has to become night  
 <br>
 
 &emsp;this is a beautiful way) *
