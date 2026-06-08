@@ -9,7 +9,7 @@ Lately I find myself thinking about John Green's review of sunsets in his book <
 
 - The e.e. cummings poem he includes:
 
-&emsp;<i> who are you,little i
+&emsp;*who are you,little i
 
 &emsp;(five or six years old)
 &emsp;peering from some high
@@ -21,7 +21,7 @@ Lately I find myself thinking about John Green's review of sunsets in his book <
 &emsp;(and feeling:that if day
 &emsp;has to become night
 
-&emsp;this is a beautiful way) </i>
+&emsp;this is a beautiful way) *
 
 - "\[S\]ometimes when the world is betweend day and night, I'm stopped cold by its splendor, and I feel my absurd smallness."
 
